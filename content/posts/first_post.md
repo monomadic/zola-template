@@ -5,4 +5,4 @@ date = 2020-06-28
 
 # First Post
 
-First post content
+First post content [[wiki_link]].
